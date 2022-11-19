@@ -1,0 +1,28 @@
+.header {
+  margin: 0 0 1em 0;
+  padding: 20px;
+  background: rgb(217, 157, 97);
+}
+
+h2 {
+  color: rgba(25, 25, 26, 0.7);
+}
+
+.navLinks {
+  display: flex;
+  justify-content: space-around;
+}
+
+.navMenu {
+  display: flex;
+}
+
+.navMenu > li {
+  list-style: none;
+  padding-right: 10px;
+}
+
+.navMenu > li > a {
+  text-decoration: none;
+  font-size: 1.2em;
+}
