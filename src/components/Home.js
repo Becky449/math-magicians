@@ -10,7 +10,7 @@ const Home = () => (
     <div className="more">
       Perform simple mathematical operations of addition, substraction,
       division, multiplication, negatations and percentages. The numbers and
-      operations are displayed as buttons. Click on your preferred numbers and
+      operations are display buttons. Click on your preferred numbers and
       operations to perform an operations.
     </div>
   </div>
